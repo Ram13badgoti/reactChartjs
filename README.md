@@ -5,6 +5,8 @@ This project was bootstrapped with [Create React App](https://github.com/faceboo
 ## Available Scripts
 
 In the project directory, you can run:
+### `json-server --watch db.json`
+Runs api stored in file db.json
 
 ### `npm start`
 
